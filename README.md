@@ -1,5 +1,4 @@
-Trabajo de examen con JIRA
-Cloud Computing
+Trabajo de segundo examen parcial  con Trello y GitHub Cloud Computing
 
 Integrantes:
 1. Gustavo Cardozo
